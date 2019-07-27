@@ -9,6 +9,7 @@
   - Secara Offline Bisa Menggunakan Bantuan Web Server (Xampp) Untuk Menjalankan Program Ini, Dengan Melakukan Download File Ini Dan Mengekstrak Lalu Memasukkannya Pada Htdocs Server Lokal Lalu Dijalankan Di Browser.
 
 # Screen Shoot Dan Contoh Program Soal Nomor 6
+  -Dapat Juga Dilihat Di https://www.youtube.com/watch?v=88s_tNatt4g&t=19s
 
 Tampilan Awal / Home
 ![alt text](https://github.com/christmex/Arkademy-11/blob/master/ScreenShoot/Screenshot%20from%202019-07-27%2013-21-07.png)  
