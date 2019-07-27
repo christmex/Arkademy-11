@@ -10,14 +10,11 @@
 
 # Screen Shoot Dan Contoh Program Soal Nomor 6
 
-  - Tampilan Awal / Home
-  - ![alt text](https://github.com/christmex/Arkademy-11/blob/master/ScreenShoot/Screenshot%20from%202019-07-27%2013-21-07.png)
-
-  - Tampilan Tambah / Input Data
-  - ![alt text](https://github.com/christmex/Arkademy-11/blob/master/ScreenShoot/Screenshot%20from%202019-07-27%2013-21-14.png)
-  
-  - Tampilan Hapus Data
-  - ![alt text](https://github.com/christmex/Arkademy-11/blob/master/ScreenShoot/Screenshot%20from%202019-07-27%2013-21-33.png)
-  
-  - Tampilan Update Data
-  - ![alt text](https://github.com/christmex/Arkademy-11/blob/master/ScreenShoot/Screenshot%20from%202019-07-27%2013-22-05.png)
+Tampilan Awal / Home
+![alt text](https://github.com/christmex/Arkademy-11/blob/master/ScreenShoot/Screenshot%20from%202019-07-27%2013-21-07.png)  
+Tampilan Tambah / Input Data
+![alt text](https://github.com/christmex/Arkademy-11/blob/master/ScreenShoot/Screenshot%20from%202019-07-27%2013-21-14.png)
+Tampilan Hapus Data
+![alt text](https://github.com/christmex/Arkademy-11/blob/master/ScreenShoot/Screenshot%20from%202019-07-27%2013-21-33.png)  
+Tampilan Update Data
+![alt text](https://github.com/christmex/Arkademy-11/blob/master/ScreenShoot/Screenshot%20from%202019-07-27%2013-22-05.png)
